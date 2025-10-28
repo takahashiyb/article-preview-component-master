@@ -1,0 +1,24 @@
+main {
+  display: grid;
+}
+
+.author-content {
+  display: grid;
+  grid-template-columns: min-content auto min-content;
+}
+
+.social-links {
+  display: grid;
+  grid-template-columns: auto min-content;
+  background-color: red;
+
+  p {
+    display: inline;
+  }
+}
+
+@media (min-width: 767px) {
+  main {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
