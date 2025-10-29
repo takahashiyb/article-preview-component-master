@@ -41,7 +41,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Links
 
 - Solution URL: [click here for GitHub repository](https://github.com/takahashiyb/article-preview-component-master)
-- Live Site URL: [click here for Live Site](https://github.com/takahashiyb/article-preview-component-master)
+- Live Site URL: [click here for Live Site](https://takahashiyb.github.io/article-preview-component-master/)
 
 ## My process
 
