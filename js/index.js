@@ -17,6 +17,8 @@ shareButton.addEventListener("click", function () {
   this.classList.toggle("active");
 
   const ariaPressed = this.getAttribute("aria-pressed") === "false";
-  console.log(ariaPressed);
   this.setAttribute("aria-pressed", ariaPressed);
+
+  const ariaExpanded = this.getAttribute("aria-expanded") === "false";
+  this.setAttribute("aria-expanded", ariaExpanded);
 });
