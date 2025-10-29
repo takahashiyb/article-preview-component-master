@@ -49,6 +49,23 @@ html {
 
 /* Layout */
 
+footer {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  translate: -50% 0px;
+  z-index: -1;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 body {
   height: 100dvh;
   display: grid;
