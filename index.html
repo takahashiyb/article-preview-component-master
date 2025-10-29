@@ -47,6 +47,7 @@
           <button
             id="button-show-author-links"
             aria-label="click to show social media links"
+            aria-pressed="false"
           >
             <img src="./images/icon-share.svg" alt="share button icon" />
           </button>
@@ -62,7 +63,9 @@
           </div>
 
           <div id="social-links" class="social-links" hidden inert>
-            <p>share</p>
+            <p aria-label="share this article to any of the following links">
+              share
+            </p>
             <div>
               <a href="#" aria-label="share this article to facebook">
                 <img src="./images/icon-facebook.svg" alt="facebook icon"
