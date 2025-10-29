@@ -229,7 +229,7 @@ main {
     height: var(--spacing-0500);
   }
   div {
-    p:first-child {
+    address {
       font: var(--preset-font-2-bold);
       letter-spacing: var(--preset-letter-spacing-2);
       color: var(--grey-900);
