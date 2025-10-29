@@ -163,6 +163,7 @@ main {
   border-radius: var(--spacing-0200);
   border: none;
   background-color: var(--white);
+  box-shadow: 4px 10px 30px var(--grey-400);
 }
 
 #hero-image {

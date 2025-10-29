@@ -55,7 +55,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ### What I learned
 
-I learned some layout issues to look out for when checking the overall design of a card, such as things that should and should not overflow. I also learned how to fetch svg and add it into the DOM as svg so the as an svg element, the shapes could be editted, rather than a flat image.
+I learned some layout issues to look out for when checking the overall design of a card, such as things that should and should not overflow. I also learned how to fetch svg and add it into the DOM as svg so the as a svg element, the shapes could be edited, rather than a flat image.
 
 ### Continued development
 
